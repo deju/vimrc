@@ -14,3 +14,9 @@ my vim configuration
 open VIM, then run
 
     :BundleInstall
+
+### More bundle
+- [solidity bundle](https://github.com/tomlion/vim-solidity)
+
+### Related Tools
+- [Vundle](https://github.com/VundleVim/Vundle.vim) is a great tool when manage bundle in github.
